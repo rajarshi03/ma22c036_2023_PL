@@ -1,0 +1,8 @@
+GitPython==3.1.32
+matplotlib==3.5.3
+numpy==1.22.3
+pandas==2.0.3
+pandas_datareader==0.10.0
+scipy==1.11.1
+seaborn==0.12.2
+spacy==3.6.0
