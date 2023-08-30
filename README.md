@@ -1,6 +1,6 @@
 # ma22c036_2023_PL
 
-This Repo is for my Assignments given by IITM
+This Repo is for my Assignments given by IITM [@sivaramambikasaran](https://github.com/sivaramambikasaran)
 
 # How to run:
 1. Install python
