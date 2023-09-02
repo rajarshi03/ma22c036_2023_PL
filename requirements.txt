@@ -9,4 +9,6 @@ spacy
 notebook
 memory-profiler
 pytest
+setuptools
+wheel
 primesieve
