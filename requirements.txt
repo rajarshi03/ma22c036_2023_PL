@@ -7,3 +7,4 @@ scipy
 seaborn
 spacy
 notebook
+memory-profiler
