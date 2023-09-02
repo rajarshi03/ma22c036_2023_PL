@@ -8,3 +8,4 @@ seaborn
 spacy
 notebook
 memory-profiler
+pytest
