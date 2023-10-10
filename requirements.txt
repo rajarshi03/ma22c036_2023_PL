@@ -9,6 +9,7 @@ spacy
 notebook
 memory-profiler
 pytest
+pandas-datareader
 setuptools
 wheel
 primesieve
