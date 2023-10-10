@@ -10,6 +10,7 @@ notebook
 memory-profiler
 pytest
 pandas-datareader
+yfinance
 setuptools
 wheel
 primesieve
