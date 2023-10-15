@@ -11,6 +11,7 @@ memory-profiler
 pytest
 pandas-datareader
 yfinance
+celluloid
 setuptools
 wheel
 primesieve
