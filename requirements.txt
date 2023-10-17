@@ -12,6 +12,7 @@ pytest
 pandas-datareader
 yfinance
 celluloid
+pycountry
 setuptools
 wheel
 primesieve
