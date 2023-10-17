@@ -13,6 +13,7 @@ pandas-datareader
 yfinance
 celluloid
 pycountry
+plotly
 setuptools
 wheel
 primesieve
