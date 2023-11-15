@@ -14,6 +14,3 @@ yfinance
 celluloid
 pycountry
 plotly
-setuptools
-wheel
-primesieve
