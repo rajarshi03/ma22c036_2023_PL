@@ -13,4 +13,4 @@ pandas-datareader
 yfinance
 celluloid
 pycountry
-plotly
+plotly
